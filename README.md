@@ -112,7 +112,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 # 🔶 Tableau Project
 
-## 📊 Business Insights Dashboard
+## 📊 1️⃣ Business Insights Dashboard
 
 * Interactive Filters
 * Calculated Fields
@@ -122,8 +122,22 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 🔗 Project Link: (Add Link)
 ![Marketing](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Marketing%20Dashboard.png)
 
+
+
 ---
 
+
+## 📊 2️⃣ Business Insights Dashboard
+
+* Interactive Filters
+* Calculated Fields
+* Sales & Profit Analysis
+* Regional Comparison
+
+🔗 Project Link: (Add Link)
+
+![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/HR%20attrion%20dashboard%20final.png)
+---
 # 🟢 Excel Project
 
 ## 📊 Advanced Financial & HR Dashboard
@@ -134,8 +148,8 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Automated Sheets
 
 🔗 Project Link: (Add Link)
-![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/HR%20attrion%20dashboard%20final.png)
 
+![Misio](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/misuo%20dashboard.png)
 ---
 
 # 🎯 Career Objective
