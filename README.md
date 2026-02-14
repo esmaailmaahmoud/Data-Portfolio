@@ -120,7 +120,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Regional Comparison
 
 🔗 Project Link: (Add Link)
-📸 Dashboard Preview: (Add Image)
+![Marketing](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Marketing%20Dashboard.png)
 
 ---
 
