@@ -70,7 +70,13 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Star Schema Data Modeling
 
 🔗 Project Link: (Add Link)
-📸 Dashboard Preview: (Add Image)
+<h3>Project 1: HR Dashboard</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EsmaailMaahmoud/HR-Dashboard/main/screenshot1.png" width="200px" />
+  <img src="https://raw.githubusercontent.com/EsmaailMaahmoud/HR-Dashboard/main/screenshot2.png" width="200px" />
+  <img src="https://raw.githubusercontent.com/EsmaailMaahmoud/HR-Dashboard/main/screenshot3.png" width="200px" />
+</p>
 
 ---
 
