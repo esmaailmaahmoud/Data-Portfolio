@@ -134,7 +134,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Automated Sheets
 
 🔗 Project Link: (Add Link)
-📸 Preview: (Add Image)
+![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/HR%20attrion%20dashboard%20final.png)
 
 ---
 
