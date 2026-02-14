@@ -60,23 +60,17 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 ## 📊 1️⃣ HR Analytics Executive Dashboard
 
-**Focus:** Workforce Intelligence & Strategic HR Insights
+**Focus:**  HR Attrition
 
 * Attrition Analysis
 * Headcount Trends
-* Cohort Retention Analysis
-* What-if Scenario Simulation
 * Drill-through Employee Details
 * Star Schema Data Modeling
 
 🔗 Project Link: (Add Link)
 <h3>Project 1: HR Dashboard</h3>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EsmaailMaahmoud/HR-Dashboard/main/screenshot1.png" width="200px" />
-  <img src="https://raw.githubusercontent.com/EsmaailMaahmoud/HR-Dashboard/main/screenshot2.png" width="200px" />
-  <img src="https://raw.githubusercontent.com/EsmaailMaahmoud/HR-Dashboard/main/screenshot3.png" width="200px" />
-</p>
+![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/HR%20attrition-.png)
 
 ---
 
@@ -89,7 +83,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Interactive Drill-down
 
 🔗 Project Link: (Add Link)
-📸 Dashboard Preview: (Add Image)
+![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Adidas%20Dasboard.png)
 
 ---
 
