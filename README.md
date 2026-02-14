@@ -95,8 +95,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Cohort Analysis
 
 🔗 Project Link: (Add Link)
-📸 Dashboard Preview: (Add Image)
-
+![Salla](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Dashboard%20p1.png)
 ---
 
 ## 📊 4️⃣ Workforce Planning Dashboard
