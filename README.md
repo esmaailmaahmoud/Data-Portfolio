@@ -1,7 +1,7 @@
 
  <h1 align="center"> 👋 Hi, I'm Esmaail Mahmoud  </h1> 
 
-<h2 align="center"> HR Supervisor | Data Analyst | HR & Business Analytics </h2>
+<h2 align="center"> HR Supervisor | Data Analyst | HR & Business Analyst </h2>
 
 
 
