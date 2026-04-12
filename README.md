@@ -74,7 +74,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 ---
 
-## 📊 2️⃣ Business Performance Dashboard
+## 📊 2️⃣ Fainancial and sales analysis Dashboard
 
 * Revenue vs Target
 * Profit Margin Analysis
@@ -87,12 +87,12 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 ---
 
-## 📊 3️⃣ Sales & Customer Analytics
+## 📊 3️⃣ Work force & call center Analytics
 
-* Customer Segmentation
-* Revenue Contribution
-* Retention Metrics
-* Cohort Analysis
+* calls analysis.
+* Calls SLA.
+* enhance the services.
+* What if analysis.
 
 🔗 Project Link: (Add Link)
 ![Salla](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Dashboard%20p1.png)
