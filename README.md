@@ -98,17 +98,6 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 ![Salla](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Dashboard%20p1.png)
 ---
 
-## 📊 4️⃣ Workforce Planning Dashboard
-
-* Hiring Forecast
-* Turnover Cost Analysis
-* Scenario Simulation
-* Department Capacity Tracking
-
-🔗 Project Link: (Add Link)
-📸 Dashboard Preview: (Add Image)
-
----
 
 # 🔶 Tableau Project
 
