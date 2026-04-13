@@ -58,7 +58,22 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 ---
 
-## 📊 1️⃣ HR Analytics Executive Dashboard
+## 📊  HR Analytics Executive Dashboard
+
+**Focus:** 1️⃣ HR Attrition
+
+* Attrition Analysis
+* Headcount Trends
+* Drill-through Attrition Details
+* Star Schema Data Modeling
+
+🔗 Project Link: (Add Link)
+<h3>Project 1: HR Dashboard</h3>
+
+![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Attrition%20dark%20mode.png)
+
+---
+## 📊 2️⃣ HR Analytics Executive Dashboard
 
 **Focus:**  HR Attrition
 
@@ -71,10 +86,8 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 <h3>Project 1: HR Dashboard</h3>
 
 ![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/HR%20attrition-.png)
-
 ---
-
-## 📊 2️⃣ Fainancial and sales analysis Dashboard
+## 📊 3️⃣ Fainancial and sales analysis Dashboard
 
 * Revenue vs Target
 * Profit Margin Analysis
@@ -87,7 +100,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 ---
 
-## 📊 3️⃣ Work force & call center Analytics
+## 📊 4️⃣ Work force & call center Analytics
 
 * calls analysis.
 * Calls SLA.
