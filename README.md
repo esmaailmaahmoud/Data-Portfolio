@@ -60,7 +60,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 ## 📊  HR Analytics Executive Dashboard
 
-**Focus:** 1️⃣ HR Attrition
+**Focus:** 1️⃣ Strategic Retention & Attrition Intelligence Dashboard
 
 * Attrition Analysis
 * Headcount Trends
