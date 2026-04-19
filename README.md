@@ -72,6 +72,9 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 <p align="center">
   <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Portofolio.gif" 
        width="100%" />
+ <p align="center">
+  <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/IBM.gif" 
+       width="100%" />
 
 ---
 ## 📊 2️⃣ HR Analytics Executive Dashboard
