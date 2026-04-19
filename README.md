@@ -70,8 +70,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 🔗 Project Link: (Add Link)
 <h3>Project 1: HR Dashboard</h3>
 
-![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Attrion%20Dark%20mode.png)
-![Full project](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Portofolio.gif)
+![IBM Dashboard](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Portofolio.gif)
 
 ---
 ## 📊 2️⃣ HR Analytics Executive Dashboard
