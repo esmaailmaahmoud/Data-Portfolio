@@ -70,9 +70,8 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 🔗 Project Link: (Add Link)
 <h3>Project 1: HR Dashboard</h3>
 <p align="center">
-  <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Portofolio.gif" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazU1eXpycTk1NjNhMW5vdHdnbnY1N3kxZmJsNDg3ZXUzaXFhYTNseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zoKdmndB8QBR2c0gjy/giphy.gif" 
        width="100%" />
-</p>
 
 ---
 ## 📊 2️⃣ HR Analytics Executive Dashboard
