@@ -69,10 +69,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 🔗 Project Link: (Add Link)
 <h3>Project 1: HR Dashboard</h3>
-<p align="center">
-  <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Portofolio.gif" 
-       width="100%" />
- <p align="center">
+
   <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/IBM.gif" 
        width="100%" />
 
