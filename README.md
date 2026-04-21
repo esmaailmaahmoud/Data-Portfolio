@@ -59,8 +59,8 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 ## 📊  HR Analytics Executive Dashboard
 <p align="center">
   <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/IBM.gif" 
-       width="100%" />
- <a href="https://docs.google.com/presentation/d/1gmCg_XJvc91B7ZuXNxwUvOgC-F269W5TE6A3F0ZDuA0/edit?slide=id.g3d86cc28f18_2_238#slide=id.g3d86cc28f18_2_238">full project </a>
+       width="100%">  < />
+ <a href="https://docs.google.com/presentation/d/1gmCg_XJvc91B7ZuXNxwUvOgC-F269W5TE6A3F0ZDuA0/edit?slide=id.g3d86cc28f18_2_238#slide=id.g3d86cc28f18_2_238"></a>
 **Focus:** 1️⃣ Strategic Retention & Attrition Intelligence Dashboard
 
 * Attrition Analysis
