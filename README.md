@@ -14,8 +14,7 @@
 
 Data Analyst with strong expertise in **Power BI, SQL, and Advanced Excel**, backed by hands-on experience as an HR Supervisor.
 
-I specialize in transforming raw data into meaningful insights that support HR and business decision-making.
-
+I specializ
 Experienced in building interactive dashboards, applying data modeling techniques, writing DAX measures, and performing ETL processes.
 
 I also use **Tableau for interactive visualization** and **Python for data analysis and data preparation tasks**.
@@ -66,7 +65,6 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Drill-through Attrition Details
 * Star Schema Data Modeling
 
-🔗 Project Link: (Add Link)
 <h3>Project 1: HR Dashboard</h3>
 
   <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/IBM.gif" 
@@ -82,7 +80,6 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Drill-through Employee Details
 * Star Schema Data Modeling
 
-🔗 Project Link: (Add Link)
 <h3>Project 1: HR Dashboard</h3>
 
 ![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/HR%20attrition-.png)
@@ -98,7 +95,6 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Time Intelligence Measures
 * Interactive Drill-down
 
-🔗 Project Link: (Add Link)
 
 
 
@@ -127,7 +123,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Sales & Profit Analysis
 * Regional Comparison
 
-🔗 Project Link: (Add Link)
+
 ![Marketing](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Marketing%20Dashboard.png)
 
 
@@ -142,7 +138,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Sales & Profit Analysis
 * Regional Comparison
 
-🔗 Project Link: (Add Link)
+
 
 ![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/HR%20attrion%20dashboard%20final.png)
 ---
@@ -155,7 +151,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Budget vs Actual Analysis
 * Automated Sheets
 
-🔗 Project Link: (Add Link)
+
 
 ![Misio](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/misuo%20dashboard.png)
 ---
