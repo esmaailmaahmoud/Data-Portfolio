@@ -1,4 +1,4 @@
-
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6d34116e-4b05-47c8-aa19-a420405025d9" />
  <h1 align="center"> 👋 Hi, I'm Esmaail Mahmoud  </h1> 
 
 <h2 align="center"> HR Supervisor | Data Analyst | HR & Business Analyst </h2>
@@ -89,7 +89,10 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 ![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/HR%20attrition-.png)
 ---
 ## 📊 3️⃣ Fainancial and sales analysis Dashboard
-
+<p align="center">
+  <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Adidas.gif" 
+       width="100%" />
+</p>
 * Revenue vs Target
 * Profit Margin Analysis
 * Dynamic KPI Cards
@@ -97,7 +100,8 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 * Interactive Drill-down
 
 🔗 Project Link: (Add Link)
-![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Adidas%20Dasboard.png)
+
+
 
 ---
 
