@@ -1,4 +1,3 @@
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6d34116e-4b05-47c8-aa19-a420405025d9" />
  <h1 align="center"> 👋 Hi, I'm Esmaail Mahmoud  </h1> 
 
 <h2 align="center"> HR Supervisor | Data Analyst | HR & Business Analyst </h2>
