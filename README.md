@@ -103,7 +103,8 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 ## 📊 4️⃣ Work force & call center Analytics
 <p align="center">
   <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Salla.gif" 
-       width="100%" />
+    <p   width="100%" />
+ 
 * calls analysis.
 * Calls SLA.
 * enhance the services.
