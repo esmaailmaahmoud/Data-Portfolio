@@ -88,11 +88,12 @@ I also use **Tableau for interactive visualization** and **Python for data analy
   <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Adidas.gif" 
        width="100%" />
 </p>
-* Revenue vs Target
-* Profit Margin Analysis
-* Dynamic KPI Cards
-* Time Intelligence Measures
-* Interactive Drill-down
+
+* Revenue vs Target.
+* Profit Margin Analysis.
+* Dynamic KPI Cards.
+* Time Intelligence Measures.
+* Interactive Drill-down.
 
 
 
