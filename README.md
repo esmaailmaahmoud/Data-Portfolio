@@ -186,7 +186,7 @@ Using:-
 ---
 # 🟢 Excel Project
 
-## 📊 Advanced Financial & HR Dashboard
+## 📊 Sales Dashboard
 ![Misio](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/misuo%20dashboard.png)
 * Pivot-Based Reporting
 * KPI Tracking
