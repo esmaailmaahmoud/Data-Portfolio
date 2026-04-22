@@ -77,7 +77,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 *التنويه بالموظفين الأكثر تحقيقيا للارقام لتحفيز الموظفين وجعلهم يشعرو بالتقدير.*
 
-
+Using:-
 * Attrition Analysis
 * Headcount Trends
 * Drill-through Attrition Details
