@@ -76,7 +76,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 *تفعيل برامج توجيه مكثفة للموظفين في سنتهم الأولى ودى أخطر مرحلة مع رسم مسار ترقي واضح للشباب لزيادة تمسكهم بالشركة*.
 
 *التنويه بالموظفين الأكثر تحقيقيا للارقام لتحفيز الموظفين وجعلهم يشعرو بالتقدير.*
-**Focus:** Strategic Retention & Attrition Intelligence Dashboard
+
 
 * Attrition Analysis
 * Headcount Trends
