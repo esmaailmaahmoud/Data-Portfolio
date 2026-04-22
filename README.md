@@ -158,23 +158,23 @@ Using:-
 
 # 🔶 Tableau Project
 
-## 📊 1️⃣ Business Insights Dashboard
-
+## 📊 1️⃣ Marketing Dashboard
+![Marketing](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Marketing%20Dashboard.png)
 * Interactive Filters
 * Calculated Fields
 * Sales & Profit Analysis
 * Regional Comparison
 
 
-![Marketing](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Marketing%20Dashboard.png)
+
 
 
 
 ---
 
 
-## 📊 2️⃣ Business Insights Dashboard
-
+## 📊 2️⃣ HR Attrition Dashboard
+![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/HR%20attrion%20dashboard%20final.png)
 * Interactive Filters
 * Calculated Fields
 * Sales & Profit Analysis
@@ -182,12 +182,12 @@ Using:-
 
 
 
-![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/HR%20attrion%20dashboard%20final.png)
+
 ---
 # 🟢 Excel Project
 
 ## 📊 Advanced Financial & HR Dashboard
-
+![Misio](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/misuo%20dashboard.png)
 * Pivot-Based Reporting
 * KPI Tracking
 * Budget vs Actual Analysis
@@ -195,7 +195,7 @@ Using:-
 
 
 
-![Misio](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/misuo%20dashboard.png)
+
 ---
 
 # 🎯 Career Objective
