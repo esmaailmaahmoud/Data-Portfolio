@@ -58,7 +58,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 ## 📊 1️⃣ HR Analytics Dashboard
 
-<h1 color="red";><a  href="https://docs.google.com/presentation/d/1gmCg_XJvc91B7ZuXNxwUvOgC-F269W5TE6A3F0ZDuA0/edit?slide=id.g3d86cc28f18_2_238#slide=id.g3d86cc28f18_2_238">Full project</a></h1>
+<h1><a href="https://docs.google.com/presentation/d/1gmCg_XJvc91B7ZuXNxwUvOgC-F269W5TE6A3F0ZDuA0/edit?slide=id.g3d86cc28f18_2_238#slide=id.g3d86cc28f18_2_238">Full project</a></h1>
 
 <p align="center"; >
   <a href="https://docs.google.com/presentation/d/1gmCg_XJvc91B7ZuXNxwUvOgC-F269W5TE6A3F0ZDuA0/edit?slide=id.g3d86cc28f18_2_238#slide=id.g3d86cc28f18_2_238">
