@@ -102,33 +102,21 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 
 Using:-
-* Attrition Analysis
-* Headcount Trends
-* Drill-through Attrition Details
-* Star Schema Data Modeling
-
-
-
----
-## 📊 2️⃣ HR Analytics Executive Dashboard
-![HR Attrition](https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/HR%20attrition-.png)
-**Focus:**  HR Attrition
-
-. 
-
-* Attrition Analysis
-* Headcount Trends
+*Attrition Analysis
 * Drill-through Employee Details
 * EDA
 * Data cleaning
 * Data modeling
 * Data visualisation
-
+* Star Schema Data Modeling
+* Bookmarks.
+* Conditional formating
 
 
 
 ---
-## 📊 3️⃣ Fainancial and sales analysis Dashboard
+## 📊 2️⃣ HR Analytics Executive Dashboard
+
 <p align="center">
   <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Adidas.gif" 
        width="100%" />
@@ -145,7 +133,7 @@ Using:-
 
 ---
 
-## 📊 4️⃣ Work force & call center Analytics
+## 📊 3️⃣ Work force & call center Analytics
 <p align="center">
   <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Salla.gif" 
     <p   width="100%" />
