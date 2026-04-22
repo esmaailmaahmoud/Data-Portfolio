@@ -57,15 +57,15 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 ---
 
 ## 📊  HR Analytics Executive Dashboard
+<h3>Click on the dashboard to see the full project</h3>
 
-<p style="align=center; font_size=30px;">
+<p align="center"; font_size="30px";">
   <a href="https://docs.google.com/presentation/d/1gmCg_XJvc91B7ZuXNxwUvOgC-F269W5TE6A3F0ZDuA0/edit?slide=id.g3d86cc28f18_2_238#slide=id.g3d86cc28f18_2_238">
   <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Attrition%20light.png" 
        width="100%"> 
 </a>
         
         </p>
-<h1>Click on the dashboard to see the full project</h1>
 **Focus:** 1️⃣ Strategic Retention & Attrition Intelligence Dashboard
 
 * Attrition Analysis
