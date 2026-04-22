@@ -65,7 +65,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 </a>
         
         </p>
-##Click on the dashboard to see the full project
+<h1>Click on the dashboard to see the full project</h1>
 **Focus:** 1️⃣ Strategic Retention & Attrition Intelligence Dashboard
 
 * Attrition Analysis
