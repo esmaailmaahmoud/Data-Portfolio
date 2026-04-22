@@ -111,15 +111,19 @@ Using:-
 * Star Schema Data Modeling
 * Bookmarks.
 * Conditional formating
+* Light and dark mode
+* story telling
 
 
 
 ---
-## 📊 2️⃣ HR Analytics Executive Dashboard
+## 📊 2️⃣ Adidas sales Dashboard
 
 <p align="center">
-  <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Adidas.gif" 
+ <a href="https://docs.google.com/presentation/d/12LXeJ1zo7cFZuieWLesAZStQ6vSgxwfTJgF4Bi0V1i0/edit?slide=id.g3d8b165a748_2_75#slide=id.g3d8b165a748_2_75">
+  <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Adidas%20Dasboard.png" 
        width="100%" />
+ </a>
 </p>
 
 * Revenue vs Target.
