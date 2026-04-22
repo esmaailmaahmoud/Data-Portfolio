@@ -118,7 +118,7 @@ Using:-
 
 ---
 ## 📊 2️⃣ Adidas sales Dashboard
-
+<h1><a href="https://docs.google.com/presentation/d/12LXeJ1zo7cFZuieWLesAZStQ6vSgxwfTJgF4Bi0V1i0/edit?slide=id.g3d8b165a748_2_75#slide=id.g3d8b165a748_2_75">Full project</a></h1>
 <p align="center">
  <a href="https://docs.google.com/presentation/d/12LXeJ1zo7cFZuieWLesAZStQ6vSgxwfTJgF4Bi0V1i0/edit?slide=id.g3d8b165a748_2_75#slide=id.g3d8b165a748_2_75">
   <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Adidas%20Dasboard.png" 
@@ -138,9 +138,13 @@ Using:-
 ---
 
 ## 📊 3️⃣ Work force & call center Analytics
+<h1><a href="https://docs.google.com/presentation/d/1MVN_iKnMeOWuE0wCGMh7PK24P7lYGDF13_52lSWZdf0/edit?slide=id.p#slide=id.p">Full project</a></h1>
 <p align="center">
-  <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Salla.gif" 
-    <p   width="100%" />
+ <a href="https://docs.google.com/presentation/d/1MVN_iKnMeOWuE0wCGMh7PK24P7lYGDF13_52lSWZdf0/edit?slide=id.p#slide=id.p">
+  <img src="https://github.com/esmaailmaahmoud/Data-Portfolio/blob/main/Dashboard%20p1%20Light.png" 
+       width="100%" />
+ </a>
+</p>
  
 * calls analysis.
 * Calls SLA.
