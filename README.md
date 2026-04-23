@@ -106,13 +106,11 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 </p>
 Using:-
-*Attrition Analysis
-* Drill-through Employee Details
 * EDA
 * Data cleaning
-* Data modeling
-* Data visualisation
 * Star Schema Data Modeling
+* Data visualisation
+* Drill-through Employee Details
 * Bookmarks.
 * Conditional formating
 * Light and dark mode
