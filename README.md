@@ -56,7 +56,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 
 ---
 
-## 📊 1️⃣ HR Analytics Dashboard
+ 📊 1️⃣ HR Analytics Dashboard
 
 <h1><a href="https://docs.google.com/presentation/d/1gmCg_XJvc91B7ZuXNxwUvOgC-F269W5TE6A3F0ZDuA0/edit?slide=id.g3d86cc28f18_2_238#slide=id.g3d86cc28f18_2_238">Full project</a></h1>
 
@@ -124,7 +124,7 @@ Using:-
 
 
 ---
-## 📊 2️⃣ Adidas sales Dashboard
+ 📊 2️⃣ Adidas sales Dashboard
 <h1><a href="https://docs.google.com/presentation/d/12LXeJ1zo7cFZuieWLesAZStQ6vSgxwfTJgF4Bi0V1i0/edit?slide=id.g3d8b165a748_2_75#slide=id.g3d8b165a748_2_75">Full project</a></h1>
 <p align="center">
  <a href="https://docs.google.com/presentation/d/12LXeJ1zo7cFZuieWLesAZStQ6vSgxwfTJgF4Bi0V1i0/edit?slide=id.g3d8b165a748_2_75#slide=id.g3d8b165a748_2_75">
