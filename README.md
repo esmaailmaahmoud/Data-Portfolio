@@ -90,6 +90,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 </p>
 <h3>ثانياً: تحليل قسم الموارد البشرية (Human Resources)
 </h3>
+<p>
 لاحظت زيادة معدل دوران الموظفين في قسم الموارد البشرية بنسبة 19%.
 
 اكتشفت من خلال العلاقات أن الموظف في هذا القسم يميل للاستقالة عند شعوره بالجمود الوظيفي أو نقص التقدير المادي مقارنة بالمجهود.
@@ -103,7 +104,7 @@ I also use **Tableau for interactive visualization** and **Python for data analy
 مراجعة هيكل الرواتب: لضمان تناسبها مع حجم المسؤوليات، مما يقلل من تفكير الكفاءات في الانتقال لشركات أخرى.
 
 
-
+</p>
 Using:-
 *Attrition Analysis
 * Drill-through Employee Details
